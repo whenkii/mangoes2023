@@ -42,6 +42,27 @@ async function startup() {
 
 startup();
 
+// const nodemailer = require("nodemailer")
+
+// let transporter = nodemailer.createTransport({
+//     service:"gmail",
+//     auth:{
+//         user:"whenkii@yahoo.co.in",
+//         pass:"ashunikkie123"},
+//     tls:{rejectUnauthorized:false}
+// })
+
+// let mailOptions = {from:"GardenRoots",to:"whenkii@yahoo.co.in",subject:"Test",text:"Order details"}
+
+// transporter.sendMail(mailOptions,(err,success) => {
+//     if (err){
+//         console.log(err)
+//     }
+//     else{
+//         console.log("Success")
+//     }
+// })
+
 // shutdown function is not called like startup but calls when serevr is stopped explicitly like Cntrl+c
 // *** This Shutdown function calls when server process is closed manually/forcibly
 async function shutdown(e) {
