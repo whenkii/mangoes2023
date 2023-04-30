@@ -18,7 +18,7 @@ module.exports = {
   hrPool: {
     // user: "system",
     // password: "tnr311083",
-    user: "sggr_test",
+    user: "sggr",
     password: "venki311083",
     connectString: "localhost:1521/xe",
     // user: "admin",
