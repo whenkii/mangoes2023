@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8630b826.chunk.css",
+    "main.js": "./static/js/main.b32be085.chunk.js",
+    "main.js.map": "./static/js/main.b32be085.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dc67b12b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dc67b12b.js.map",
+    "static/css/2.b1b4eb3d.chunk.css": "./static/css/2.b1b4eb3d.chunk.css",
+    "static/js/2.a44bb469.chunk.js": "./static/js/2.a44bb469.chunk.js",
+    "static/js/2.a44bb469.chunk.js.map": "./static/js/2.a44bb469.chunk.js.map",
+    "static/js/3.6aad8b66.chunk.js": "./static/js/3.6aad8b66.chunk.js",
+    "static/js/3.6aad8b66.chunk.js.map": "./static/js/3.6aad8b66.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.b1b4eb3d.chunk.css.map": "./static/css/2.b1b4eb3d.chunk.css.map",
+    "static/css/main.8630b826.chunk.css.map": "./static/css/main.8630b826.chunk.css.map",
+    "static/js/2.a44bb469.chunk.js.LICENSE.txt": "./static/js/2.a44bb469.chunk.js.LICENSE.txt",
+    "static/media/Venkat_Paynow.3f2ae230.jpeg": "./static/media/Venkat_Paynow.3f2ae230.jpeg",
+    "static/media/mallika-about.88020cf7.jpeg": "./static/media/mallika-about.88020cf7.jpeg",
+    "static/media/mango.6455e176.svg": "./static/media/mango.6455e176.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc67b12b.js",
+    "static/css/2.b1b4eb3d.chunk.css",
+    "static/js/2.a44bb469.chunk.js",
+    "static/css/main.8630b826.chunk.css",
+    "static/js/main.b32be085.chunk.js"
+  ]
+}
